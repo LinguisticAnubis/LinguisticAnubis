@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
   <form>
-    <button> test </button>
+    <button type="button">Click Me!</button>
   </form>
   
 </div>
