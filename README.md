@@ -9,6 +9,8 @@ LinguisticAnubis/LinguisticAnubis is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 # Current Projects
-[ ] Desktop Gui for Warframe Market Scraper
-
-[ ] Create easier workflow for onboarding clients 
+- [ ] Desktop GUI for Warframe scraper
+- [ ] Collaborate on Open Source projects 
+- [ ] Find Clients via outreach
+- [ ] Create a Blog that will reflect all testemonials 
+- [ ] 
